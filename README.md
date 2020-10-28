@@ -19,4 +19,4 @@
                                                                                    
 ```
 
-See why [here](https://dwheeler.com/oss_fs_why.html) and [here](https://en.wikipedia.org/wiki/Free_and_open-source_software) 🚀
+See how [here](https://dwheeler.com/oss_fs_why.html) and [here](https://en.wikipedia.org/wiki/Free_and_open-source_software) 🚀
