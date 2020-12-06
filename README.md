@@ -21,9 +21,11 @@
 
 👷 📷 🇫🇷 🇪🇺 🌍 👽     
        
-       
+  
 Photo: http://bit.ly/2dNAN6Z;      
 
+
+Most of repositories here are junks or drafts.
 
 
 
